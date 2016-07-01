@@ -1,4 +1,4 @@
 # hello-world
 General scripts
 
-This is atext to check difference from master branch
+This is a test to check difference from master branch
